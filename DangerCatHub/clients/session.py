@@ -1,15 +1,14 @@
 import sys
 
+from DangerCat_config import Config
 from telethon import TelegramClient
 from telethon.network.connection.tcpabridged import ConnectionTcpAbridged
 from telethon.sessions import StringSession
 
-from DangerCat_config import Config
-
 if Config.DANGERCAT_SESSION:
     session = StringSession(str(Config.DANGERCAT_SESSION))
 else:
-    session = "DangerCat"
+    session = "DangetCat"
 
 try:
     DangetCat = TelegramClient(
