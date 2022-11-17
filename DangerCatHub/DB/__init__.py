@@ -1,10 +1,9 @@
 import os
 
+from DangerCat_config import Config
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import scoped_session, sessionmaker
-
-from DangerCat_config import Config
 
 
 def start() -> scoped_session:
