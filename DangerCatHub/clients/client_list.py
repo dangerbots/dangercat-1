@@ -1,4 +1,4 @@
-from DangerCatHub.DB.gvar_sql import gvarstat
+from 
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon.utils import get_peer_id
 
