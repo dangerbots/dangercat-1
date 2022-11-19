@@ -44,7 +44,3 @@ tgcrypto
 validators
 vcam
 
-git+https://github.com/gaetan1903/py-googletrans
-git+https://github.com/goldsmith/Wikipedia
-git+https://github.com/HellBoy-OP/yt-dp-fork
-git+https://github.com/alexmercerind/youtube-search-python
