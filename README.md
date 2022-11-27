@@ -34,7 +34,8 @@
 ## Deploy 🚀
 - [![Heroku](https://img.shields.io/badge/DangerCatBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/o30OoE?referralCode=7ri2HU)
+### Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4C897t)
 
 - [![Locally](https://img.shields.io/badge/DangerCatBot-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
 
