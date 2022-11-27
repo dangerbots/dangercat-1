@@ -17,7 +17,7 @@ from handlers.cache.data import *
 from config import SUDO_USERS
 from main import ALIVE_PIC
 
-Zaid = f"**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**\n\n"
+Zaid = f"**꧁ ⚡️DaNgErCaT⚡️꧂**\n\n"
 Zaid += f"━───────╯•╰───────━\n"
 Zaid += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.5`\n"
 Zaid += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{__version__}`\n"
@@ -94,7 +94,7 @@ syntax:
 syntax:
 ‣ `.eye`
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -115,7 +115,7 @@ command:
 ✘**Dm Raid:** raid in Dm of Any individual Users
 ‣ .dmraid "count" "username or user id"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -126,7 +126,7 @@ join_help = f"""
 
 ‣.join "private/public Chat invite link or username"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -136,7 +136,7 @@ leave_help = f"""
 
 ‣ `.leave` "group Username or chat user id"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -148,7 +148,7 @@ cast_help = f"""
 
 ‣ `.broadcast` "Reply to a message"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -162,7 +162,7 @@ Specially designed for inviting active members.
 
 ‣ `.inviteall` "group Username or chat user id"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -176,7 +176,7 @@ userbot_help = f"""
 
 ‣ .restart : To Restart Your Bots
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -190,7 +190,7 @@ command:
   ‣`.dreplyraid` "userid To deactivate replyraid (abusive words)"
 
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -203,7 +203,7 @@ commands:
 2) .setbio "coustom Bio"
 3) .setpic "reply to media"
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -224,7 +224,7 @@ help_menu = f"""
 ✘**Type** .help "category" **to get all syntax in that category and its usage**
 ✘**Example**: `.help replyraid`
 
-**꧁ 𒈞zαι∂ υѕєявσт𒈞꧂**
+**꧁ ⚡️DaNgErCaT⚡️ ꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
