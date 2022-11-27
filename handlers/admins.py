@@ -5,7 +5,7 @@ from pyrogram.errors import UserAdminInvalid
 from pyrogram.types import Message, ChatPermissions
 
 from helpers.PyroHelpers import GetUserMentionable
-from helpers.adminHelpers import CheckAdmin, RestrictFailed
+from helpers.adminHelpers import CheckAdmin, RestrictFailed, CheckReplyAdmin
 from handlers.help import add_command_help
 
 
