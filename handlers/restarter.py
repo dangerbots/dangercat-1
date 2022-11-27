@@ -41,7 +41,7 @@ async def restart(message: Message, restart_type):
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["restart", "reboot"], [".", "!"]))
 async def restart_get(client: Client, message: Message):
     try:
-        zaid = await message.reply_text("**Restarting userbot...**")
+        zaid = await message.reply_text("**Restarting dangercat...**")
         await restart(message, restart_type="restart")
     except:
         await zaid.edit_text("**An error occured...**")
